@@ -4,4 +4,4 @@ A movie recommandation system projet with the Wild Code School.
 
 In this repo :
   - Notebooks with the exploratory data analysis from the IMDB databases. 
-  - The Streamlit app code
+  - The Streamlit app code (the main file is app.py)
